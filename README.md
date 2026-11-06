@@ -1,35 +1,44 @@
-# Hi 👋, I'm MUHAMMAD UMER FAROOQ
+<h1 align="center">Hi 👋, I'm MUHAMMAD UMER FAROOQ</h1>
+<h3 align="center">Software Engineer | Full-Stack Laravel & React Developer | Building Scalable Web Applications & SaaS Solutions</h3>
 
-### Full-Stack Engineer - Islamabad
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umer-farooq-773&label=Profile%20views&color=0e75b6&style=flat" alt="umer-farooq-773" /> </p>
 
-- 🔭 Building scalable SaaS applications using **Laravel, React.js, and TypeScript**.
-- 🌱 Exploring **Artificial Intelligence, Machine Learning, and Python** to develop AI-powered applications.
-- ⚙️ Improving my expertise in **REST API development, Multi-Tenancy, RBAC, and system architecture**.
-- 🏥 Working on healthcare management systems and automated appointment management solutions.
-- 🚛 Developing fleet management and vehicle tracking solutions with **Laravel and Wialon API**.
-- 🐳 Learning and implementing **Docker, CI/CD, and DevOps** practices.
-- 🎯 Focused on writing clean, maintainable, scalable, and production-ready code.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umer-farooq-773" alt="umer-farooq-773" /></a> </p>
 
-**Fun fact:** 💡 I enjoy turning complex ideas into simple, scalable software solutions. I love exploring new technologies, solving real-world problems, and continuously learning something new. 🚀
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Connect with me
+- 🔭 I’m currently working on [Fleet Menagement System](https://vma.champsconsults.com/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umer-farooq-773) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-umer-farooq-445475216) [![Website](https://img.shields.io/badge/Website-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shahzamsolution.com/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerf1417@gmail.com)
+- 🌱 I’m currently learning DevOps **Laravel Typescript Python AI-SDK(laravel) automate clinic menagement system multi tenant based**
 
-## Tech Stack
+- 💼 Working independently on [NEQAPP (National Excellence in Quality Testing)](https://labs.neqapp.org/)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,postgres,tailwind,js,python,php,docker,laravel,github,paymentgateway,restapis)](https://skillicons.dev)
+- 🤝 I'm looking for help with AI/ML integration **Clinic Menagement System.**
 
-## GitHub Stats
+- 👨‍💻 All of my projects are available at [https://shahzamsolution.com/](https://shahzamsolution.com/)
 
-![Profile views](https://komarev.com/ghpvc/?username=umer-farooq-773&color=blueviolet&style=flat-square)
+- 💬 Ask me about **aravel, PHP, React.js, TypeScript, REST API development, SaaS applications, Multi-Tenancy, RBAC, MySQL, and full-stack web development.**
 
-![MUHAMMAD UMER FAROOQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=umer-farooq-773&show_icons=true&theme=tokyonight)
+- 📫 How to reach me **umerf1417@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umer-farooq-773&layout=compact&theme=tokyonight)
+- 📄 Know about my experiences [I'm a Software Engineer with hands-on experience in Laravel, React.js, TypeScript, REST APIs, ERP systems, and SaaS application development.](I'm a Software Engineer with hands-on experience in Laravel, React.js, TypeScript, REST APIs, ERP systems, and SaaS application development.)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=umer-farooq-773&theme=tokyonight)
+- ⚡ Fun fact **I love transforming complex business ideas into real-world software solutions. I'm always experimenting with new technologies, exploring AI, and finding smarter ways to solve problems through code. 🚀**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad umer farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umer farooq" height="30" width="40" /></a>
+<a href="https://fb.com/umer farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umer farooq" height="30" width="40" /></a>
+</p>
 
-_Thanks for stopping by - 💡 I enjoy turning complex ideas into simple, scalable software solutions. I love exploring new technologies, solving real-world problems, and continuously learning something new. 🚀_
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/umer-farooq-773"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="umer-farooq-773" /></a><a href="https://ko-fi.com/umer-farooq-773"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="umer-farooq-773" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umer-farooq-773&show_icons=true&locale=en&layout=compact" alt="umer-farooq-773" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-farooq-773&show_icons=true&locale=en" alt="umer-farooq-773" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-farooq-773&" alt="umer-farooq-773" /></p>
