@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shahzamsolution.com/](https://shahzamsolution.com/)
 
-- 💬 Ask me about **aravel, PHP, React.js, TypeScript, REST API development, SaaS applications, Multi-Tenancy, RBAC, MySQL, and full-stack web development.**
+- 💬 Ask me about **Laravel, PHP, React.js, TypeScript, REST API development, SaaS applications, Multi-Tenancy, RBAC, MySQL, and full-stack web development.**
 
 - 📫 How to reach me **umerf1417@gmail.com**
 
